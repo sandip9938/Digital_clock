@@ -1,0 +1,23 @@
+body{
+    background-color: #262525;
+    color: aliceblue;
+}
+.center{
+/* display: flex;
+align-items: center;
+text-align: center; */
+justify-content: center;
+margin-top: 225px;
+font-size: 97px;
+margin-left: 722px;
+position: relative;
+font-weight: 900;
+}
+#clock{
+height: 100px;
+width: 500px;
+background-color: rgb(120, 132, 132);
+border-radius: 5px;
+margin-left: 90px;
+color: black;
+}
